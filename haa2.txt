@@ -1,0 +1,2 @@
+git add haa2.txt
+git committed to the local repo.we can configure the username and email
